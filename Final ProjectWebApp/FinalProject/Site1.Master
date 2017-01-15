@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="FinalProject.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="margin:0; padding:0;">
+    <form id="form1" runat="server">
+        <div style="padding:10px; margin: 0px; background-color:#78c6ff">
+            <h1>ABC Online Store</h1>
+        </div>
+        <div style="float:left; clear:both; width:100%">
+            <div style="float:left; height:100%; background-color:#78c6ff; outline: 1px solid black;">
+                <div style="margin:10px;">
+                <h2>Menu</h2>
+                <asp:Button ID="btnBrowse" runat="server" Text="Browse" OnClick="btnBrowse_Click" /> <br />
+                <asp:Button ID="btnAbout" runat="server" Text="About" OnClick="btnAbout_Click" />
+                </div>
+            </div>
+            <div style="float:left; width: 80%;">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                    </asp:ContentPlaceHolder>
+                    
+            </div>
+        </div>
+        <div style="float:left; clear:both; width:100%; background-color:#78c6ff; border-top: 1px solid black;">
+            <div style="float:left;  margin:20px;">
+            Address:<br />
+            123, Young Street,<br />
+            Toronto,<br />
+            ON L5D 3K4.<br />
+                </div>
+            <div style="float:left; margin:20px;">Phone Numbers: <br />
+                Office: (141) 351-1325<br />
+                Fax: (141) 135-1351<br />
+            </div>
+        </div>
+    </form>
+</body>
+</html>
+
+
+

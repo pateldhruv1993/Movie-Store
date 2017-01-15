@@ -1,0 +1,4 @@
+userId,username,pwd,creditCard,address,email
+1,dhruv,1EBA9614763773DF08DD49049663C3E3,123456789,123, steels, brampton, ON l3y2n3,dhruv@sheridan.com
+2,patel,64A43B6CA15D128AC6A0679B39BC9C07 ,324524623,324, mcmurchy, brampton, ON k6j 2j4,patel@sheridan.com
+3,temp,3D801AA532C1CEC3EE82D87A99FDF63F,352362362,135,Battleford Road, Mississauga,dfha@gmail.com

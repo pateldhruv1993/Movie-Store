@@ -1,0 +1,7 @@
+itemId,image,itemName,itemPrice,availableQty,itemType,imdb
+1,GOT.jpg,Game of Thrones Season 1,12,53,tv,tt0944947
+2,sherlock.jpg,Sherlock Season 3,15,63,tv,tt1475582
+3,inception.jpg,Inception,22,54,movie,tt1375666
+4,darkKnightRises.jpg,The Dark Knight Rises,33,64,movie,tt1345836
+5,avatar.jpg,Avatar,21,32,movie,tt0499549
+6,theSimpsons.jpg,TheSimpsons Season 2,35,23,tv,tt0096697

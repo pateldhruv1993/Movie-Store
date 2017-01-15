@@ -1,0 +1,15 @@
+O:\Semester 5\C#\FinalProjectWindowsApp\FinalProjectWindowsApp\bin\Debug\FinalProjectWindowsApp.exe.config
+O:\Semester 5\C#\FinalProjectWindowsApp\FinalProjectWindowsApp\bin\Debug\FinalProjectWindowsApp.exe
+O:\Semester 5\C#\FinalProjectWindowsApp\FinalProjectWindowsApp\bin\Debug\FinalProjectWindowsApp.pdb
+O:\Semester 5\C#\FinalProjectWindowsApp\FinalProjectWindowsApp\obj\Debug\FinalProjectWindowsApp.csprojResolveAssemblyReference.cache
+O:\Semester 5\C#\FinalProjectWindowsApp\FinalProjectWindowsApp\obj\Debug\FinalProjectWindowsApp.Form1.resources
+O:\Semester 5\C#\FinalProjectWindowsApp\FinalProjectWindowsApp\obj\Debug\FinalProjectWindowsApp.Properties.Resources.resources
+O:\Semester 5\C#\FinalProjectWindowsApp\FinalProjectWindowsApp\obj\Debug\FinalProjectWindowsApp.csproj.GenerateResource.Cache
+O:\Semester 5\C#\FinalProjectWindowsApp\FinalProjectWindowsApp\obj\Debug\FinalProjectWindowsApp.exe
+O:\Semester 5\C#\FinalProjectWindowsApp\FinalProjectWindowsApp\obj\Debug\FinalProjectWindowsApp.pdb
+O:\Semester 5\C#\FinalProject\FinalProjectWindowsApp\FinalProjectWindowsApp\bin\Debug\FinalProjectWindowsApp.exe.config
+O:\Semester 5\C#\FinalProject\FinalProjectWindowsApp\FinalProjectWindowsApp\obj\Debug\FinalProjectWindowsApp.exe
+O:\Semester 5\C#\FinalProject\FinalProjectWindowsApp\FinalProjectWindowsApp\obj\Debug\FinalProjectWindowsApp.pdb
+F:\College Stuff\Semester 5\C#\FinalProject\FinalProjectWindowsApp\FinalProjectWindowsApp\bin\Debug\FinalProjectWindowsApp.exe.config
+F:\College Stuff\Semester 5\C#\FinalProject\FinalProjectWindowsApp\FinalProjectWindowsApp\obj\Debug\FinalProjectWindowsApp.exe
+F:\College Stuff\Semester 5\C#\FinalProject\FinalProjectWindowsApp\FinalProjectWindowsApp\obj\Debug\FinalProjectWindowsApp.pdb

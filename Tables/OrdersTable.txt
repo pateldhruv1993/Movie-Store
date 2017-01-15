@@ -1,0 +1,11 @@
+orderId,userId,itemId,qty,shipAddress
+1,1,2,1,123, steels, brampton, ON l3y2n3
+4,1,4,1,123, steels, brampton, ON l3y2n3
+5,1,5,1,123, steels, brampton, ON l3y2n3
+6,1,5,1,123, steels, brampton, ON l3y2n3
+7,1,2,1,123, steels, brampton, ON l3y2n3
+8,1,4,1,123, steels, brampton, ON l3y2n3
+9,1,5,1,123, steels, brampton, ON l3y2n3
+10,1,2,1,123, steels, brampton, ON l3y2n3
+11,3,2,1,135,Battleford Road, Mississauga
+12,3,5,1,135,Battleford Road, Mississauga
